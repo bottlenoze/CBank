@@ -3,4 +3,4 @@ project(CBank)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(CBank main.cpp)
+add_executable(CBank main.c)
