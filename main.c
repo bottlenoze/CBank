@@ -1,7 +1,7 @@
 /*
  ============================================================================
  Name        : Cbank.c
- Author      : Brandon Tretsven
+ Author      : Bottlenoze
  Version     : 1.0
  Copyright   :
  Description : Hello World in C, Ansi-style
